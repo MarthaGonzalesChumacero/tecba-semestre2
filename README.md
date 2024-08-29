@@ -6,4 +6,6 @@ Nombre Completo: Martha Gonzales Chumacero
 LAB1
 
 
-Hola mundo desde git
+Descripcion: Mi nombre es Martha Gonzales Chumacero, soy contadora de profesión,
+trabajo en el dia y de noche estudio en el TECBA.
+
