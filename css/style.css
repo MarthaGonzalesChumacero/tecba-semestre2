@@ -1,0 +1,17 @@
+h1{
+    font-size: 50px;
+    color: rgb(12, 12, 189);
+    background-color: rgb(127, 197, 173);
+}
+p{
+    font-size: 20px;
+    text-align: center;
+
+}
+a{
+    font-size: 50px;
+    color: aquamarine;
+}
+body{
+    background-color: blueviolet;
+}
